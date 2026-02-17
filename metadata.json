@@ -1,0 +1,9 @@
+
+{
+  "name": "Nexus Marketplace",
+  "description": "A sophisticated multi-vendor e-commerce marketplace featuring an advanced shopping experience, seller dashboards, and admin analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
